@@ -1,0 +1,307 @@
+Sudoku provided:
+
+0 0 6 0 0 0 4 2 9 
+2 0 0 6 0 7 3 0 0 
+0 0 1 2 0 9 6 0 0 
+5 0 0 0 6 8 0 0 2 
+8 0 0 4 0 5 0 9 0 
+9 0 0 0 7 1 0 8 0 
+0 0 5 1 0 2 0 0 4 
+3 4 2 0 0 0 0 0 1 
+0 9 0 0 0 4 2 0 7 
+
+---------------------------------------------------------
+The Genetic Algorithm is going to try to solve the Sudoku
+---------------------------------------------------------
+
+Iteration 1:
+Mean Fitness -> 85.3155625
+Best Fitness -> 121
+
+Iteration 2:
+Mean Fitness -> 86.290625
+Best Fitness -> 118
+
+Iteration 3:
+Mean Fitness -> 87.2010625
+Best Fitness -> 115
+
+Iteration 4:
+Mean Fitness -> 87.9220625
+Best Fitness -> 118
+
+Iteration 5:
+Mean Fitness -> 88.4993125
+Best Fitness -> 119
+
+Iteration 6:
+Mean Fitness -> 89.2965625
+Best Fitness -> 117
+
+Iteration 7:
+Mean Fitness -> 89.9949375
+Best Fitness -> 120
+
+Iteration 8:
+Mean Fitness -> 90.734375
+Best Fitness -> 122
+
+Iteration 9:
+Mean Fitness -> 91.4415625
+Best Fitness -> 120
+
+Iteration 10:
+Mean Fitness -> 92.1588125
+Best Fitness -> 129
+
+Iteration 11:
+Mean Fitness -> 92.7955
+Best Fitness -> 127
+
+Iteration 12:
+Mean Fitness -> 93.3438125
+Best Fitness -> 123
+
+Iteration 13:
+Mean Fitness -> 93.908625
+Best Fitness -> 125
+
+Iteration 14:
+Mean Fitness -> 94.507625
+Best Fitness -> 126
+
+Iteration 15:
+Mean Fitness -> 95.0321875
+Best Fitness -> 126
+
+Iteration 16:
+Mean Fitness -> 95.5974375
+Best Fitness -> 126
+
+Iteration 17:
+Mean Fitness -> 96.1770625
+Best Fitness -> 123
+
+Iteration 18:
+Mean Fitness -> 96.782875
+Best Fitness -> 127
+
+Iteration 19:
+Mean Fitness -> 97.4473125
+Best Fitness -> 130
+
+Iteration 20:
+Mean Fitness -> 98.0589375
+Best Fitness -> 132
+
+Iteration 21:
+Mean Fitness -> 98.6420625
+Best Fitness -> 129
+
+Iteration 22:
+Mean Fitness -> 99.1385
+Best Fitness -> 130
+
+Iteration 23:
+Mean Fitness -> 99.7590625
+Best Fitness -> 133
+
+Iteration 24:
+Mean Fitness -> 100.3504375
+Best Fitness -> 131
+
+Iteration 25:
+Mean Fitness -> 100.8656875
+Best Fitness -> 133
+
+Iteration 26:
+Mean Fitness -> 101.412125
+Best Fitness -> 136
+
+Iteration 27:
+Mean Fitness -> 101.9839375
+Best Fitness -> 136
+
+Iteration 28:
+Mean Fitness -> 102.5931875
+Best Fitness -> 133
+
+Iteration 29:
+Mean Fitness -> 103.0936875
+Best Fitness -> 132
+
+Iteration 30:
+Mean Fitness -> 103.6169375
+Best Fitness -> 136
+
+Iteration 31:
+Mean Fitness -> 104.213875
+Best Fitness -> 135
+
+Iteration 32:
+Mean Fitness -> 104.696
+Best Fitness -> 137
+
+Iteration 33:
+Mean Fitness -> 105.2454375
+Best Fitness -> 138
+
+Iteration 34:
+Mean Fitness -> 105.7941875
+Best Fitness -> 137
+
+Iteration 35:
+Mean Fitness -> 106.319875
+Best Fitness -> 137
+
+Iteration 36:
+Mean Fitness -> 106.8205625
+Best Fitness -> 144
+
+Iteration 37:
+Mean Fitness -> 107.4045
+Best Fitness -> 140
+
+Iteration 38:
+Mean Fitness -> 107.93125
+Best Fitness -> 146
+
+Iteration 39:
+Mean Fitness -> 108.4826875
+Best Fitness -> 146
+
+Iteration 40:
+Mean Fitness -> 108.92925
+Best Fitness -> 145
+
+Iteration 41:
+Mean Fitness -> 109.383375
+Best Fitness -> 144
+
+Iteration 42:
+Mean Fitness -> 109.982125
+Best Fitness -> 148
+
+Iteration 43:
+Mean Fitness -> 110.462625
+Best Fitness -> 144
+
+Iteration 44:
+Mean Fitness -> 110.978625
+Best Fitness -> 148
+
+Iteration 45:
+Mean Fitness -> 111.3349375
+Best Fitness -> 144
+
+Iteration 46:
+Mean Fitness -> 111.87625
+Best Fitness -> 146
+
+Iteration 47:
+Mean Fitness -> 112.4003125
+Best Fitness -> 148
+
+Iteration 48:
+Mean Fitness -> 112.917
+Best Fitness -> 146
+
+Iteration 49:
+Mean Fitness -> 113.4140625
+Best Fitness -> 144
+
+Iteration 50:
+Mean Fitness -> 114.048125
+Best Fitness -> 158
+
+Iteration 51:
+Mean Fitness -> 114.749375
+Best Fitness -> 151
+
+Iteration 52:
+Mean Fitness -> 115.209375
+Best Fitness -> 150
+
+Iteration 53:
+Mean Fitness -> 115.72475
+Best Fitness -> 150
+
+Iteration 54:
+Mean Fitness -> 116.2094375
+Best Fitness -> 152
+
+Iteration 55:
+Mean Fitness -> 116.7708125
+Best Fitness -> 149
+
+Iteration 56:
+Mean Fitness -> 117.311125
+Best Fitness -> 154
+
+Iteration 57:
+Mean Fitness -> 117.780125
+Best Fitness -> 156
+
+Iteration 58:
+Mean Fitness -> 118.3861875
+Best Fitness -> 158
+
+Iteration 59:
+Mean Fitness -> 118.9290625
+Best Fitness -> 154
+
+Iteration 60:
+Mean Fitness -> 119.4685625
+Best Fitness -> 154
+
+Iteration 61:
+Mean Fitness -> 120.00725
+Best Fitness -> 154
+
+Iteration 62:
+Mean Fitness -> 120.55225
+Best Fitness -> 158
+
+Iteration 63:
+Mean Fitness -> 121.0843125
+Best Fitness -> 154
+
+Iteration 64:
+Mean Fitness -> 121.6043125
+Best Fitness -> 154
+
+Iteration 65:
+Mean Fitness -> 122.1896875
+Best Fitness -> 158
+
+Iteration 66:
+Mean Fitness -> 122.801
+Best Fitness -> 158
+
+Iteration 67:
+Mean Fitness -> 123.3246875
+Best Fitness -> 154
+
+Iteration 68:
+Mean Fitness -> 124
+Best Fitness -> 162
+
+-------------------------------------------
+A solution to this sudoku problem was found
+-------------------------------------------
+
+Best Individual:
+7 5 8 1 3 8 9 4 1 5 4 3 5 7 8 1 3 9 7 4 6 7 2 1 3 2 4 3 5 6 6 7 9 8 3 7 8 6 9 5 1 8 5 3 6 
+
+Sudoku Solved:
+
+7 5 6 8 1 3 4 2 9 
+2 8 9 6 4 7 3 1 5 
+4 3 1 2 5 9 6 7 8 
+5 1 3 9 6 8 7 4 2 
+8 6 7 4 2 5 1 9 3 
+9 2 4 3 7 1 5 8 6 
+6 7 5 1 9 2 8 3 4 
+3 4 2 7 8 6 9 5 1 
+1 9 8 5 3 4 2 6 7 
+
